@@ -4,7 +4,6 @@
 2. [Pedra Papel Tesoura](#pedra-papel-tesoura)
 
 ## Pokedex
-## Pokedex
 
 Este projeto é uma aplicação web interativa de Pokedex, que consome uma API de Pokémon para exibir informações detalhadas sobre diferentes Pokémon. A aplicação foi desenvolvida utilizando Vue.js, com ênfase no gerenciamento de estado global sem o uso do Vuex, e faz requisições de API com Axios para obter os dados.
 
