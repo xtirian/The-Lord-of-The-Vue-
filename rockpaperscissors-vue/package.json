@@ -1,0 +1,30 @@
+{
+  "name": "rockpapersscissors-vue",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "vue": "^3.4.29"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-plugin-eslint": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
+    "@vue/eslint-config-airbnb": "^8.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^9.10.0",
+    "eslint-plugin-import": "^2.30.0",
+    "eslint-plugin-vue": "^9.28.0",
+    "sass": "^1.79.1",
+    "sass-loader": "^16.0.1",
+    "vite": "^5.3.1",
+    "vue-template-compiler": "^2.7.16"
+  }
+}
